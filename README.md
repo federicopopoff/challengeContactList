@@ -8,7 +8,7 @@ I develop a contact list using the JSON data provided via this endpoint ("https:
 
 ### Retrofit - Http client
 
-Retrofit is a type-safe REST client for Android (or just Java) developed by Square. The library provides a powerful framework for authenticating and interacting with APIs and sending network requests with OkHttp. See this guide to understand how OkHttp works.
+Retrofit is a type-safe REST client for Android (or just Java) developed by Square. The library provides a powerful framework for authenticating and interacting with APIs and sending network requests with OkHttp. 
 
 ### Fresco - Image managment library
 
