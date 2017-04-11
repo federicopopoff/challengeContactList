@@ -7,8 +7,16 @@ Develop a contact list using the JSON data provided via this endpoint ("https://
 ## Libraries
 
 ### Retrofit - Http client
+
+Retrofit is a type-safe REST client for Android (or just Java) developed by Square. The library provides a powerful framework for authenticating and interacting with APIs and sending network requests with OkHttp. See this guide to understand how OkHttp works.
+
 ### Fresco - Image managment library
+
+Fresco takes care of image loading and display, so you don't have to. It will load images from the network, local storage, or local resources, and display a placeholder until the image has arrived. It has two levels of cache; one in memory and another in internal storage.
+
 ### Gson Converter - Serialization/deserialization library
+
+Gson is a Java library that can be used to convert Java Objects into their JSON representation. It can also be used to convert a JSON string to an equivalent Java object. Gson can work with arbitrary Java objects including pre-existing objects that you do not have source-code of.
 
 ## Notes
 
