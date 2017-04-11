@@ -1,6 +1,6 @@
 # Challenge Contact List
 
-App in Java
+App in Java with Android Studio
 
 I develop a contact list using the JSON data provided via this endpoint ("https://s3.amazonaws.com/technical-challenge/Contacts.json"). The data should be downloaded, parsed and displayed in a listview. If the user taps on one of the contacts, the application navigate to a detail view.
 
