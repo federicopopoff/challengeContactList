@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="contact_view_margin">10dp</dimen>
+    <dimen name="details_margin">20dp</dimen>
+    <dimen name="details_photo_margin">10dp</dimen>
+    <dimen name="details_label_margin">20dp</dimen>
+    <dimen name="details_photo_size">150dp</dimen>
+    <dimen name="corner_radius_photo">5dp</dimen>
+    <dimen name="margin_left_phone_description">17dp</dimen>
+    <dimen name="contact_photo_small_size">50dp</dimen>
+    <dimen name="margin_right_photo_small">20dp</dimen>
+    <dimen name="contact_item_two_panels_margin">16dp</dimen>
+    <dimen name="contact_list_two_panels_width">300dp</dimen>
+</resources>

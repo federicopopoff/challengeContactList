@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="@dimen/contact_item_two_panels_margin"
+    android:layout_marginRight="@dimen/contact_item_two_panels_margin"
+    android:baselineAligned="false"
+    android:divider="?android:attr/dividerHorizontal"
+    android:orientation="horizontal"
+    android:showDividers="middle"
+    tools:context="com.federicopopoff.contactlist.com.federicopopoff.contactlist.ContactActivity">
+
+    <android.support.v7.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/recycler_view_contact_list"
+        android:layout_width="@dimen/contact_list_two_panels_width"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/contact_item_two_panels_margin"
+        android:layout_marginRight="@dimen/contact_item_two_panels_margin"
+        app:layoutManager="LinearLayoutManager"
+        tools:context="com.federicopopoff.contactlist.com.federicopopoff.contactlist.ContactActivity"
+        tools:listitem="@layout/contact_view" />
+
+    <FrameLayout
+        android:id="@+id/contact_detail_container"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="3" />
+
+</LinearLayout>
