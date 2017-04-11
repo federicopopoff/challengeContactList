@@ -23,3 +23,11 @@ The RecyclerView class simplifies the display and handling of large data sets by
 ### I've done two layouts of contact list details, one for wide screen and the other for handset device, because of this:
 
 Flexible UI: When designing your application to support a wide range of screen sizes, you can reuse your fragments in different layout configurations to optimize the user experience based on the available screen space. For example, on a handset device it might be appropriate to display just one fragment at a time for a single-pane user interface. Conversely, you may want to set fragments side-by-side on a tablet which has a wider screen size to display more information to the user.
+
+## Built With
+
+* [Android Studio](https://developer.android.com/studio/index.html?hl=es-419) - The IDE for Android Apps. 
+
+## Authors
+
+* **Federico Popoff** - *Initial work* - [federicopopoff](https://gist.github.com/federicopopoff/)
