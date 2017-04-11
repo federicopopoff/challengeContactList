@@ -2,9 +2,9 @@
 
 App in Java
 
-Develop a contact list using the JSON data provided via this endpoint ("https://s3.amazonaws.com/technical-challenge/Contacts.json"). The data should be downloaded, parsed and displayed in a listview. If the user taps on one of the contacts, the application should navigate to a detail view.
+I develop a contact list using the JSON data provided via this endpoint ("https://s3.amazonaws.com/technical-challenge/Contacts.json"). The data should be downloaded, parsed and displayed in a listview. If the user taps on one of the contacts, the application navigate to a detail view.
 
-## Libraries
+## Libraries I used
 
 ### Retrofit - Http client
 
