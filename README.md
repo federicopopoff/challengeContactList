@@ -6,7 +6,7 @@ Develop a contact list using the JSON data provided via this endpoint. The data 
 
 ## Libraries
 
-#dsdsdj## Fresco - Image managment library
+### Fresco - Image managment library
 ### Retrofit - Http client
 ### Gson Converter - Serialization/deserialization library
 
@@ -20,7 +20,6 @@ The RecyclerView class simplifies the display and handling of large data sets by
 - Default animations for common item operations, such as removal or addition of items
 - You also have the flexibility to define custom layout managers and animations for RecyclerView widgets
 
-###I've done two layouts of contact list details, one for wide screen and the other for handset device, because of this:
+### I've done two layouts of contact list details, one for wide screen and the other for handset device, because of this:
 
-Flexible UI: When designing your application to support a wide range of screen sizes, you can reuse your fragments in different layout configurations to optimize the user experience based on the available screen space. For example, on a handset device it might be appropriate to display just one fragment at a time for a single-pane user interface. Conversely, you may want to set fragments side-by-side on a tablet which has a wider screen size to display more information to the user. 
-sds
+Flexible UI: When designing your application to support a wide range of screen sizes, you can reuse your fragments in different layout configurations to optimize the user experience based on the available screen space. For example, on a handset device it might be appropriate to display just one fragment at a time for a single-pane user interface. Conversely, you may want to set fragments side-by-side on a tablet which has a wider screen size to display more information to the user.
